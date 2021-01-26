@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yubi6304@gmail.com)
 
-![Seonmin's github stats](https://github-readme-stats.vercel.app/api?username=SeonminKim1&show_icons=true)
+![SeonminKim 's github stats](https://github-readme-stats.vercel.app/api?username=SeonminKim1&show_icons=true)
