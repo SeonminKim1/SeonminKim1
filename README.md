@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![SeonminKim1's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/SeonminKim1/github-readme-stats)
+
+## Interest
+- AI Vision
+- Image Classification / Detection
+
+### :mailbox_with_mail: Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yubi6304@gmail.com)
