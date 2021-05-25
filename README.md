@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 - Joined the Isys-Lab from Hansung University, Seoul, Korea, as a Undergraduate DeepLearning Research Student, in 2020.01 ~ 2020.12.
 
 ### 🌱 Interest
-- Image Classification / Object Detection / GAN / OCR
-- (Sub) Data-Analysis, Data-Engineering, Python Backend
+- AI Vision : Classification, Detection, GAN, OCR, SR.. etc
+- MLOps, Data-Engineering, Python Backend
 
 ### :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yubi6304@gmail.com)
