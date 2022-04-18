@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 :wave: Hi, I'm a developer who dreams of becoming an AI Vision developer. I'm interested in ***Image Classification, Detection, GAN, OCR etc... all fields related to image processing***. Also, I'm not reluctant to use a variety of development frameworks, and I ***like fast prototyping and efficient backend development***.
 
 ### 🔭 Career
-- I worked as an AI Engineer, in NeuralWorks, Seoul, Korea 2021.06 ~ 
+- I worked as an AI Engineer, in NeuralWorks, Seoul, Korea 2021.06 ~ 2022.01
 - Received the B.S. degrees, in Computer Engineering from Hansung University, Seoul, Korea, in 2021.02
 - I worked as an intern, in ETRI (Electronics and Telecommunications Research Institute), Pangyo, Korea, in 2021.01 ~ 2021.02.
 - Joined the Isys-Lab from Hansung University, Seoul, Korea, as a Undergraduate DeepLearning Research Student, in 2020.01 ~ 2020.12.
