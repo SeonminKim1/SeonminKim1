@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Seonmin Kim
-
-`Python` `Java` `Kubernetes(K8s)` `AWS`
+`Python` `Java` `Go` `Kubernetes(K8s)` `AWS` `MSA`
 
 > **Backend Developer experienced in building full-cycle Web & App services.**
 > 
-> Having primarily focused on **Python** for web server development, I am now expanding my technical toolkit. I am actively growing my expertise in **Cloud-Native environments** and **Java/Go** —including **Kubernetes (K8s)**—through projects and continuous learning.
+> Having primarily focused on **Python** for web server development, I am now expanding my technical toolkit to become a multi-language engineer. With a strong foundation in backend development, I am actively growing my expertise in **Java**, **Go**, and **Microservices Architectures (MSA)** within **Cloud-Native environments**—including **Kubernetes (K8s)**. My ultimate goal is to design highly scalable, resilient distributed systems.
 
 ---
 
